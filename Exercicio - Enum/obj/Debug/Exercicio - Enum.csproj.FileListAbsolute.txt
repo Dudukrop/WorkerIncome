@@ -1,0 +1,15 @@
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - Enum\Exercicio - Enum\bin\Debug\Exercicio - Enum.exe.config
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - Enum\Exercicio - Enum\bin\Debug\Exercicio - Enum.exe
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - Enum\Exercicio - Enum\bin\Debug\Exercicio - Enum.pdb
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - Enum\Exercicio - Enum\obj\Debug\Exercicio - Enum.csproj.AssemblyReference.cache
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - Enum\Exercicio - Enum\obj\Debug\Exercicio - Enum.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - Enum\Exercicio - Enum\obj\Debug\Exercicio - Enum.exe
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - Enum\Exercicio - Enum\obj\Debug\Exercicio - Enum.pdb
+C:\Programação\GitHubProjects\Repositorio C#\Exercicio - Enum\Exercicio - Enum\bin\Debug\Exercicio - Enum.exe.config
+C:\Programação\GitHubProjects\Repositorio C#\Exercicio - Enum\Exercicio - Enum\bin\Debug\Exercicio - Enum.exe
+C:\Programação\GitHubProjects\Repositorio C#\Exercicio - Enum\Exercicio - Enum\bin\Debug\Exercicio - Enum.pdb
+C:\Programação\GitHubProjects\Repositorio C#\Exercicio - Enum\Exercicio - Enum\obj\Debug\Exercicio - Enum.csproj.AssemblyReference.cache
+C:\Programação\GitHubProjects\Repositorio C#\Exercicio - Enum\Exercicio - Enum\obj\Debug\Exercicio - Enum.csproj.SuggestedBindingRedirects.cache
+C:\Programação\GitHubProjects\Repositorio C#\Exercicio - Enum\Exercicio - Enum\obj\Debug\Exercicio - Enum.csproj.CoreCompileInputs.cache
+C:\Programação\GitHubProjects\Repositorio C#\Exercicio - Enum\Exercicio - Enum\obj\Debug\Exercicio - Enum.exe
+C:\Programação\GitHubProjects\Repositorio C#\Exercicio - Enum\Exercicio - Enum\obj\Debug\Exercicio - Enum.pdb
